@@ -11,30 +11,26 @@ Unfortunately, not all Spreadsheet Editors are coded equal. Each spreadsheet edi
 | Application | Version | Notes |
 |:---:|:---:|:---|
 | LibreOffice |6.1|The most complete from this list. Allows complex Conditional Formatting. Support newest functions such as MINFIS. Processes Regular Expressions|
-| Apache OpenOffice|4.1|. Very pretty but non standard input entry. Allows complex Conditional Formatting. Missing support newest functions. Lacks Regular Expressions support|
-|Excel|2010|. Lots of users, reason why I migrated it. Allows some Conditional Formatting with simple styles. Bug found in Conditional Formatting background colour . Support newest functions. Lacks Regular Expressions support |
-| Excel|2003|. Lots of users, reason why I migrated it. Allows some Conditional Formatting with simple styles. Support newest functions. Lacks Regular Expressions support|
-| Google Sheets| May 2020  |. Handy to be online but has limitations. Allows some Conditional Formatting with basic styles. Conditional formatting without worksheets references. Support lots of new functions including Google's. Regular Expressions has their own format. Some functions have different defaults|
+| Apache OpenOffice|4.1|Very pretty but non standard input entry. Allows complex Conditional Formatting. Missing support newest functions. Lacks Regular Expressions support|
+|Excel|2010|Lots of users, reason why I migrated it. Allows some Conditional Formatting with simple styles. Bug found in Conditional Formatting background colour. Support newest functions. Lacks Regular Expressions support |
+| Excel|2003|Lots of users, reason why I migrated it. Allows some Conditional Formatting with simple styles. Support newest functions. Lacks Regular Expressions support|
+| Google Sheets| May 2020  |Handy to be online but has limitations. Allows some Conditional Formatting with basic styles. Conditional formatting without worksheets references. Support lots of new functions including Google's. Regular Expressions has their own format. Some functions have different defaults|
 
 ### Prerequisites
 
 You must have either installed any of the following editors (or use the online version)
 
-[Libre Office](http://www.libreoffice.org)
+* [Libre Office](http://www.libreoffice.org)
 
-[Apache OpenOffice](http://www.openoffice.org)
+* [Apache OpenOffice](http://www.openoffice.org)
 
-[Microsoft Excel](http://en.wikipedia.org/wiki/Microsoft_Excel)
+* [Microsoft Excel](http://en.wikipedia.org/wiki/Microsoft_Excel)
 
-[Google Sheets](http://www.google.com/sheets/about)
+* [Google Sheets](http://www.google.com/sheets/about)
 
 ### Installing
 
-Download the file into your device
-
-```
-Right-click on the file, and select Save..
-```
+Download the file for your editor into your device from this repository.
 
 Otherwise go to the blog to download: [Magical Spreadsheets](http://magicalspreadsheets.blogspot.com)
 
