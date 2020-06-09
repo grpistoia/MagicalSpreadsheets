@@ -9,9 +9,11 @@ The objective was to build the spreadsheets with the smallest set of functions a
 ## Available Projects:
 
 * **Sudoku:** *The objective of Sudoku is to find the missing single-digit numbers (from 1 to 9) for each cell of the puzzle based on the values in other cells. Numbers cannot repeat on the same row, column or subgrid (3x3).*
+
 ![Preview Sudoku](images/Preview-Sudoku.jpg)
 
 * **Japanese Nonogram:** *The objective of this game is to find a hidden picture which you can be decipher using the numbers provided on each row and column.*
+
 ![Preview Japanese Nonogram](images/Preview-JapaneseNonogram.jpg)
 
 
