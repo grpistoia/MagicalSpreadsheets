@@ -4,6 +4,17 @@ Spreadsheets for fun !!!
 
 The goal of this project was to show what imagination, passion and creativity can do even with serious tools such as a Spreadsheet.
 
+The objective was to build the spreadsheets with the smallest set of functions and add-ins possible. There are no macros in this first two games, no extra plug-ins, no embedded objects. So far, only formulas and colouring were used.
+
+## Available Projects:
+
+* **Sudoku:** *The objective of Sudoku is to find the missing single-digit numbers (from 1 to 9) for each cell of the puzzle based on the values in other cells. Numbers cannot repeat on the same row, column or subgrid (3x3).*
+![Preview Sudoku](Preview-Sudoku.jpg)
+
+* **Japanese Nonogram:** *The objective of this game is to find a hidden picture which you can be decipher using the numbers provided on each row and column.*
+![Preview Japanese Nonogram](Preview-JapaneseNonogram.jpg)
+
+
 ## Getting Started
 
 Unfortunately, not all Spreadsheet Editors are coded equal. Each spreadsheet editor has their own characteristics and limitations, because they are created by different groups of people. When opening a file in another editor basic formulas normally work fine but more complex data will probably produce an error. Here are the list of functionality for each application
@@ -32,18 +43,20 @@ You must have either installed any of the following editors (or use the online v
 
 Download the file for your editor into your device from this repository.
 
-Otherwise go to the blog to download: [Magical Spreadsheets](http://magicalspreadsheets.blogspot.com)
+### Availability
+
+Also available from website [Magical Spreadsheets](http://magicalspreadsheets.blogspot.com)
+
 
 ## Authors
 
 * **Gustavo Pistoia** - *Sudoku*
 * **Gustavo Pistoia** - *Japanese Nonogram*
 
-[Magical Spreadsheets](http://magicalspreadsheets.blogspot.com)
-
 ## License
 
-This project is licensed under the GNU GPLv3 License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License - see the [LICENSE](LICENSE.md) file for details.
+
 
 ## Acknowledgments
 
