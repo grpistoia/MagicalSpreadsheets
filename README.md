@@ -57,7 +57,7 @@ Also available from website [Magical Spreadsheets](http://magicalspreadsheets.bl
 
 ## License
 
-This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License - see the [LICENSE](LICENSE) file for details.
 
 
 ## Acknowledgments
