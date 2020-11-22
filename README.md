@@ -1,6 +1,6 @@
-# Magical Spreadsheets
+# Spreadsheet Games
 
-Spreadsheets for fun !!! 
+Games implemented in a spreadsheet without plugins or macros!
 
 The goal of this project was to show what imagination, passion and creativity can do even with serious tools such as a Spreadsheet.
 
@@ -49,7 +49,6 @@ Download the file for your editor into your device from this repository.
 
 Also available from website [Magical Spreadsheets](http://magicalspreadsheets.blogspot.com)
 
-
 ## Authors
 
 * **Gustavo Pistoia** - *Sudoku*
@@ -57,7 +56,7 @@ Also available from website [Magical Spreadsheets](http://magicalspreadsheets.bl
 
 ## License
 
-This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0) License - see the [LICENSE](LICENSE.md) file for details.
 
 
 ## Acknowledgments
