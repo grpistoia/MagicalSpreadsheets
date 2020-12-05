@@ -45,14 +45,19 @@ You must have either installed any of the following editors (or use the online v
 
 Download the file for your editor into your device from this repository.
 
+[Sudoku download](Sudoku/)
+
+[Japanese Nonogram](JapaneseNonogram/)
+
 ### Availability
 
 Also available from website [Magical Spreadsheets](http://magicalspreadsheets.blogspot.com)
 
-## Authors
+To open the GitHub Page click [here](https://grpistoia.github.io/SpreadsheetGames/)
 
-* **Gustavo Pistoia** - *Sudoku*
-* **Gustavo Pistoia** - *Japanese Nonogram*
+## Author
+
+**Gustavo Pistoia** - Both games, concept, design, implementation and publishing.
 
 ## License
 
