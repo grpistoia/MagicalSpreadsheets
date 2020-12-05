@@ -43,11 +43,11 @@ You must have either installed any of the following editors (or use the online v
 
 ### Installing
 
-Download the file for your editor into your device from this repository.
+Click in the link below to get the files from this repository:
 
-[Sudoku download](Sudoku/)
+* Download [Sudoku](Sudoku/)
 
-[Japanese Nonogram](JapaneseNonogram/)
+* Download [Japanese Nonogram](JapaneseNonogram/)
 
 ### Availability
 
